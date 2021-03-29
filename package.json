@@ -1,0 +1,17 @@
+{
+  "name": "weather_journal_project",
+  "version": "1.0.0",
+  "description": "This is Udacity project(2) for Front-End Nanodegree.This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.",
+  "main": "server.js",
+  "scripts": {
+    "test": "[node server.js]",
+    "start": "node server.js"
+  },
+  "author": "Hazem Hiza, hazemhiza@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
